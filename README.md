@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Muhammad%20Adeel&fontSize=60&fontColor=00F701&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20DevOps%20Learner%20%7C%20SE%20Student&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Muhammad%20Adeel&fontSize=60&fontColor=00F701&fontAlignY=35&animation=fadeIn&desc=DevOps%20Enthusiast%20%7C%20Linux%20%7C%20Docker%20%7C%20Automation&descAlignY=55&descSize=18" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F701&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%40+Angular+%2B+Node.js;Learning+DevOps%2C+Docker+%26+Linux;Building+Real-Time+Apps+with+MongoDB;Turning+Coffee+into+Working+Code+%E2%98%95" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F701&center=true&vCenter=true&width=650&lines=Aspiring+DevOps+Engineer;Containers+with+Docker+%F0%9F%90%B3;Automating+Things+with+Bash+and+Linux;Learning+CI%2FCD+and+Cloud+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 
 </div>
 
@@ -16,9 +16,10 @@
 name: Muhammad Adeel
 location: Sahiwal, Pakistan 🇵🇰
 role: Software Engineering Student @ COMSATS University Islamabad, Sahiwal Campus
-current_focus: Full-Stack Development, DevOps
-learning: [Docker, Kali Linux, Shell Scripting, CI/CD]
-fun_fact: "I break things on localhost so they don't break in production! 😄"
+current_focus: DevOps, Linux Administration, Automation
+learning: [Shell Scripting, Kali Linux, CI/CD, Cloud Basics]
+background: Full-Stack (Angular, Node.js, MongoDB)
+fun_fact: "If I do something twice, I write a script for it 😄"
 ```
 
 <img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines3.gif" width="100%">
@@ -29,47 +30,53 @@ fun_fact: "I break things on localhost so they don't break in production! 😄"
 <tr>
 <td align="center" width="50%">
 
-**Languages**
+**OS & Scripting**
 
-<img src="https://skillicons.dev/icons?i=ts,js,bash" />
+<img src="https://skillicons.dev/icons?i=linux,bash" /><br>
+`Kali Linux` &nbsp;•&nbsp; `Shell Scripting`
 
 </td>
 <td align="center" width="50%">
 
-**Frontend**
+**Containers**
 
-<img src="https://skillicons.dev/icons?i=angular,html,css" />
+<img src="https://skillicons.dev/icons?i=docker" /><br>
+`Dockerfile` &nbsp;•&nbsp; `Images` &nbsp;•&nbsp; `Containers`
 
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
 
-**Backend**
+**Version Control**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postman" /><br>
-`REST APIs` &nbsp;•&nbsp; `JWT Auth`
+<img src="https://skillicons.dev/icons?i=git,github" />
 
 </td>
 <td align="center" width="50%">
 
-**Database**
+**Development Background**
 
-<img src="https://skillicons.dev/icons?i=mongodb" /><br>
-`Mongoose` &nbsp;•&nbsp; `Cloudinary`
-
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2">
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=ts,nodejs,angular,mongodb" />
 
 </td>
 </tr>
 </table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines3.gif" width="100%">
+
+### 🗺️ DevOps Roadmap
+
+| Area | Tools | Status |
+|------|-------|--------|
+| Linux & Shell | Linux, Bash, Kali | 🟡 Learning |
+| Containers | Docker | 🟢 Working with it |
+| Version Control | Git, GitHub | 🟢 Using daily |
+| CI/CD | GitHub Actions | 🔵 Next |
+| Web Server | Nginx | 🔵 Next |
+| Cloud | AWS | 🔵 Planned |
+| Orchestration | Kubernetes | 🔵 Planned |
+| Infrastructure as Code | Terraform | 🔵 Planned |
 
 <img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines3.gif" width="100%">
 
@@ -79,16 +86,16 @@ fun_fact: "I break things on localhost so they don't break in production! 😄"
 <tr>
 <td width="50%">
 
-**[SocialSphere](https://github.com/YOUR_USERNAME/SocialSphere)**
-Full-stack social media app with JWT auth, real-time sockets, image uploads and PWA support.<br><br>
-`Angular` `Node.js` `Express` `MongoDB`
+**[Server Health Monitor](https://github.com/YOUR_USERNAME/server-health-monitor)**
+Bash script that checks server health (CPU, memory, disk) and reports the status.<br><br>
+`Bash` `Linux`
 
 </td>
 <td width="50%">
 
-**[Server Health Monitor](https://github.com/YOUR_USERNAME/server-health-monitor)**
-Bash script that checks server health and reports on it.<br><br>
-`Bash` `Linux`
+**[SocialSphere](https://github.com/YOUR_USERNAME/SocialSphere)**
+Full-stack social media app with JWT auth, real-time sockets and PWA support.<br><br>
+`Angular` `Node.js` `Express` `MongoDB`
 
 </td>
 </tr>
