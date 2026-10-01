@@ -86,14 +86,14 @@ fun_fact: "If I do something twice, I write a script for it 😄"
 <tr>
 <td width="50%">
 
-**[Server Health Monitor](https://github.com/YOUR_USERNAME/server-health-monitor)**
+**[Server Health Monitor](https://github.com/muhammad-adeel9290/server-health-monitor)**
 Bash script that checks server health (CPU, memory, disk) and reports the status.<br><br>
 `Bash` `Linux`
 
 </td>
 <td width="50%">
 
-**[SocialSphere](https://github.com/YOUR_USERNAME/SocialSphere)**
+**[SocialSphere](https://github.com/muhammad-adeel9290/SocialSphere)**
 Full-stack social media app with JWT auth, real-time sockets and PWA support.<br><br>
 `Angular` `Node.js` `Express` `MongoDB`
 
@@ -106,8 +106,8 @@ Full-stack social media app with JWT auth, real-time sockets and PWA support.<br
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0F2027&title_color=00F701&icon_color=00F701" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0F2027&title_color=00F701" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=muhammad-adeel9290&show_icons=true&theme=dark&hide_border=true&bg_color=0F2027&title_color=00F701&icon_color=00F701" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-adeel9290&layout=compact&theme=dark&hide_border=true&bg_color=0F2027&title_color=00F701" alt="Top Languages" />
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines3.gif" width="100%">
@@ -118,7 +118,7 @@ Full-stack social media app with JWT auth, real-time sockets and PWA support.<br
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/muhammad-adeel9290" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://YOUR_PORTFOLIO.com" target="_blank">
